@@ -1,7 +1,7 @@
 ## Jimmie Haskell
 🚀 Desenvolvedor | Back-end | Front-end
 
-Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde então não parei de explorar novas linguagens e tecnologias. Ao longo dos anos, passei por C/C++ e Python, até me concentrar no desenvolvimento back-end com Django. Atualmente, também estou aprofundando meus conhecimentos em front-end com React e TypeScript. Em breve, planejo estudar Java e PostgreSQL para expandir minha experiência em desenvolvimento e banco de dados.
+Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde então não parei de explorar novas linguagens e tecnologias. Ao longo dos anos, passei por C/C++ e Python, até me concentrar no desenvolvimento back-end com Django. Atualmente, também estou aprofundando meus conhecimentos em front-end com Angular. Em breve, planejo estudar Java e PostgreSQL para expandir minha experiência em desenvolvimento e banco de dados.
 
 🎓 Sou formado em Análise e Desenvolvimento de Sistemas e, em 2025, iniciei a minha segunda graduação em Engenharia de Software para seguir aprimorando minhas habilidades e me manter sempre atualizado no mundo da tecnologia.
 
