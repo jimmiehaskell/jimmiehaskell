@@ -15,7 +15,8 @@ Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde 
 
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jimmiehaskell/jimmiehaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
