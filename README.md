@@ -15,9 +15,19 @@ Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde 
 
 ## Git Stats
 [![wakatime](https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg)](https://wakatime.com/@09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight)
+
+<div style="display:flex; flex-direction:row; top: 0;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell" />
+  </a>
+</div>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **jimmiehaskell/jimmiehaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
