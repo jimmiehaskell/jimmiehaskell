@@ -14,8 +14,9 @@ Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jimmiehaskell/jimmiehaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
