@@ -15,8 +15,8 @@ Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde 
 
 ## Git Stats
 [![wakatime](https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg)](https://wakatime.com/@09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587)<br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
