@@ -17,7 +17,7 @@ Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde 
 [![wakatime](https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg)](https://wakatime.com/@09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587)<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell" />
