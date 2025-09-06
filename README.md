@@ -1,43 +1,53 @@
-<!-- ## Jimmie Haskell
-🚀 Desenvolvedor | Back-end | Front-end
+<div align="center">
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jimmiehaskell&"  /> -->
+  <h1 align="center">Bem vindo! 👋</h1>
+  
+  <h3 align="left">👩‍💻 Sobre mim</h3>
+  <p align="justify">Olá, eu sou Jimmie Haskell, estou em transição de carreira para a área de <b>desenvovimento de software</b>, sou graduado em <b>Análise e Desenvolvimento de Sistemas</b> pela Universidade Cruzeiro do Sul, e atualmente cursando 2ª graduação em <b>Engenharia de Software</b> 4/8 pela UDF. 📚</p>
+  <p align="justify">Apaixonado por tecnologia e pela criação de soluções práticas, utilizando como aprendizado contínuo para aprimorar meus conhecimentos e evolução constante.</p>
+  <br>
+  
+  <h3 align="left">🚀 O que estou aprendendo</h3>
+  <p align="left">- Desenvolvimento backend com: <code>{ Java: Spring Boot }</code></p>
+  <p align="left">- Desenvolvimento frontend com: <code>{ Angular }</code></p>
+  <p align="left">- Banco de dados relacionais com: <code>{ PostgreSQL }</code></p>
+  <p align="left">- Conceitos como: <code>{ SOLID, APIs REST, Integração com IoT }</code></p>
+  <br>
 
-Meu primeiro contato com programação foi em 2009, quando aprendi Lua, e desde então não parei de explorar novas linguagens e tecnologias. Ao longo dos anos, passei por C/C++ e Python, até me concentrar no desenvolvimento back-end com Django. Atualmente, também estou aprofundando meus conhecimentos em front-end com Angular. Em breve, planejo estudar Java e PostgreSQL para expandir minha experiência em desenvolvimento e banco de dados.
+  <h3 align="left">🎯 Objetivos</h3>
+  <p align="justify">Concluir a transição e consolidar minha carreira como <b>desenvolvedor de software</b></p>
+  <p align="justify">Contribuir com projetos open-source, além absorver e compartilhar novos conhecimentos</p>
+  <p align="justify">Construir aplicações que gerem impactos positivos, e agregem valor para seus respectivos projetos.</p>
+  <br>
 
-🎓 Sou formado em Análise e Desenvolvimento de Sistemas e, em 2025, iniciei a minha segunda graduação em Engenharia de Software para seguir aprimorando minhas habilidades e me manter sempre atualizado no mundo da tecnologia.
+  <h3 align="left">📫 Como me encontrar</h3>  
+  <div align="left">
+    <a href="https://www.linkedin.com/in/jimmiehaskell/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/haskellmb/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+  <br>
 
-🌱 Estou sempre aprendendo e buscando novos desafios para me tornar um desenvolvedor cada vez mais completo. Vamos conectar e colaborar! -->
-
-## Conecte-se comigo
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/haskellmb/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/haskellmb/) [![X](https://img.shields.io/badge/haskellmb-000?style=for-the-badge&logo=x)](https://x.com/haskellmb)
-
-## Habilidades
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Git Stats
-[![wakatime](https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg)](https://wakatime.com/@09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587)<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell" />
-</a>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmiehaskell&show_icons=true&theme=tokyonight)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmiehaskell)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-**jimmiehaskell/jimmiehaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3 align="left">🛠 Linguagem e ferramentas</h3>
+    <div align="left">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" height="50" alt="java logo"  />
+      <img width="15" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" height="50" alt="spring boot logo"  />
+      <img width="15" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" height="50" alt="angular logo"  />
+      <img width="15" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="50" alt="angular logo"  />
+      <img width="15" />      
+    </div>
+    <br>
+    
+  <h1></h1>  
+  <h3 align="center">🔥 MINHAS ESTATÍSTICAS 🔥</h3>
+  <div align="center">
+    <img src="https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg" alt="wakatime" /><br>
+    <img src="https://streak-stats.demolab.com?user=jimmiehaskell&theme=navy-gear&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=010409" alt="GitHub Streak" />
+  </div>
+</div>
