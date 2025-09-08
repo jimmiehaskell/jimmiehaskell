@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/jimmiehaskell/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/haskellmb/" style="text-decoration: none;">
+    <a href="mailto:haskell4228@gmail.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
