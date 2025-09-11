@@ -3,8 +3,8 @@
   <h1 align="center">Bem vindo! 👋</h1>
   
   <h3 align="left">👩‍💻 Sobre mim</h3>
-  <p align="justify">Olá, eu sou Jimmie Haskell, estou em transição de carreira para a área de <b>desenvovimento de software</b>, sou graduado em <b>Análise e Desenvolvimento de Sistemas</b> pela Universidade Cruzeiro do Sul, e atualmente cursando 2ª graduação em <b>Engenharia de Software</b> 4/8 pela UDF. 📚</p>
-  <p align="justify">Apaixonado por tecnologia e pela criação de soluções práticas, utilizando como aprendizado contínuo para aprimorar meus conhecimentos e evolução constante.</p>
+  <p align="justify">Olá, eu sou Jimmie Haskell, atualmente cursando <b>Engenharia de Software</b> 4/8, pela UDF em Brasília/DF. 📚</p>
+  <p align="justify">Apaixonado por tecnologia e pela criação de soluções práticas, utilizo de diversos métodos como aprendizado contínuo, com objetivo de aprimorar meus conhecimentos e evolução constante.</p>
   <br>
   
   <h3 align="left">🚀 O que estou aprendendo</h3>
