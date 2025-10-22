@@ -8,14 +8,14 @@
   <br>
   
   <h3 align="left">🚀 O que estou aprendendo</h3>
-  <p align="left">- Desenvolvimento backend com: <code>{ Java: Spring Boot }</code></p>
+  <p align="left">- Desenvolvimento backend com: <code>{ Java: Spring Boot, Python: Django }</code></p>
   <p align="left">- Desenvolvimento frontend com: <code>{ Angular }</code></p>
   <p align="left">- Banco de dados relacionais com: <code>{ PostgreSQL }</code></p>
   <p align="left">- Conceitos como: <code>{ SOLID, APIs REST, Integração com IoT }</code></p>
   <br>
 
   <h3 align="left">🎯 Objetivos</h3>
-  <p align="justify">Concluir a transição e consolidar minha carreira como <b>desenvolvedor de software</b>;</p>
+  <p align="justify">Concluir a transição e consolidar minha carreira como <b>desenvolvedor</b>;</p>
   <p align="justify">Contribuir com projetos open-source, além absorver e compartilhar novos conhecimentos com a comunidade; e</p>
   <p align="justify">Construir aplicações que gerem impactos positivos, e agregem valor para seus respectivos projetos.</p>
   <br>
@@ -40,7 +40,10 @@
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" height="50" alt="angular logo"  />
       <img width="15" />
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="50" alt="angular logo"  />
-      <img width="15" />      
+      <br>
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo"  />
+      <img width="15" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="50" alt="django logo"  />
     </div>
     <br>
     
