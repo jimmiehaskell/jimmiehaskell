@@ -44,6 +44,8 @@
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo"  />
       <img width="15" />
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="50" alt="django logo"  />
+      <img width="15" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
     </div>
     <br>
     
