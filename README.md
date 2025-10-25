@@ -9,7 +9,7 @@
   
   <h3 align="left">🚀 O que estou aprendendo</h3>
   <p align="left">- Desenvolvimento backend com: <code>{ Java: Spring Boot, Python: Django }</code></p>
-  <p align="left">- Desenvolvimento frontend com: <code>{ Angular }</code></p>
+  <p align="left">- Desenvolvimento frontend com: <code>{ Angular, TailwindCSS }</code></p>
   <p align="left">- Banco de dados relacionais com: <code>{ PostgreSQL }</code></p>
   <p align="left">- Conceitos como: <code>{ SOLID, APIs REST, Integração com IoT }</code></p>
   <br>
