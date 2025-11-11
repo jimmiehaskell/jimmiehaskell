@@ -15,9 +15,9 @@
   <br>
 
   <h3 align="left">🎯 Objetivos</h3>
-  <p align="justify">- Concluir a transição e consolidar minha carreira como <b>desenvolvedor de software</b>;</p>
-  <p align="justify">- Contribuir com projetos open-source, além absorver e compartilhar novos conhecimentos com a comunidade; e</p>
-  <p align="justify">- Construir aplicações que gerem impactos positivos, e agregem valor para seus respectivos projetos.</p>
+  <p align="justify">1. Concluir a transição e consolidar minha carreira como <b>desenvolvedor de software</b>;</p>
+  <p align="justify">2. Contribuir com projetos open-source, além absorver e compartilhar novos conhecimentos com a comunidade; e</p>
+  <p align="justify">3. Construir aplicações que gerem impactos positivos, e agregem valor para seus respectivos projetos.</p>
   <br>
 
   <h3 align="left">📫 Como me encontrar</h3>  
