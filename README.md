@@ -45,7 +45,7 @@
       <img width="15" />
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="50" alt="django logo"  />
       <img width="15" />
-      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="bootstrap logo" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
       <img width="15" />
       <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
     </div>
