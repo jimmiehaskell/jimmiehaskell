@@ -3,7 +3,7 @@
   <h1 align="center">Bem vindo!👋</h1>
   
   <h3 align="left">👩‍💻 Sobre mim</h3>
-  <p align="justify">Olá, eu sou Jimmie Haskell, atualmente cursando <b>Engenharia de Software</b> 4/8, pela UDF em Brasília/DF. 📚</p>
+  <p align="justify">Olá, eu sou Jimmie Haskell, atualmente cursando <b>Engenharia de Software</b> 5/8, pela UDF em Brasília/DF. 📚</p>
   <p align="justify">Apaixonado por tecnologia e pela criação de soluções práticas, utilizo de diversos métodos como aprendizado contínuo, com objetivo de aprimorar meus conhecimentos e evolução constante.</p>
   <br>
   
