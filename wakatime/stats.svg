@@ -1,10 +1,10 @@
 
-<svg width="433" height="322.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="610" height="318" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
-    width="431"
-    height="320.5"
+    width="608"
+    height="316"
     fill="#0d1117"
     stroke="#c9d1d9"
     stroke-width="2"
@@ -13,244 +13,20 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text x="212.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">This week, I mostly wrote in Java</text>
-      <line x1="70" y1="106.5" x2="371" y2="106.5" stroke="#c9d1d9" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="91.5" x2="371" y2="91.5" stroke="#c9d1d9" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="76.5" x2="371" y2="76.5" stroke="#c9d1d9" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="61.5" x2="371" y2="61.5" stroke="#c9d1d9" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="46.5" x2="371" y2="46.5" stroke="#c9d1d9" stroke-width="0.5" stroke-dasharray="2,2"/>
-<text x="62" y="109.5" font-size="9" text-anchor="end" fill="#c9d1d9">00:00</text>
-<text x="62" y="94.5" font-size="9" text-anchor="end" fill="#c9d1d9">01:29</text>
-<text x="62" y="79.5" font-size="9" text-anchor="end" fill="#c9d1d9">02:58</text>
-<text x="62" y="64.5" font-size="9" text-anchor="end" fill="#c9d1d9">04:27</text>
-<text x="62" y="49.5" font-size="9" text-anchor="end" fill="#c9d1d9">05:56</text>
-<text x="25" y="76.5" font-size="10" fill-opacity="1" text-anchor="middle" transform="rotate(-90, 25, 76.5)" fill="#c9d1d9">Time</text>
-<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
-<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
-
-                <rect x="160" y="79.88769238374121" width="30" height="26.612307616258786" fill="#47aeff" rx="2" ry="2">
-                <title>Java: 02:37</title>
-                </rect>
-            
-
-                <rect x="160" y="74.55130345443933" width="30" height="5.336388929301871" fill="#82bbe5" rx="2" ry="2">
-                <title>SQL: 31m</title>
-                </rect>
-            
-
-                <rect x="160" y="71.42165061725136" width="30" height="3.1296528371879826" fill="#6382dc" rx="2" ry="2">
-                <title>XML: 18m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.9559756570917" width="30" height="1.4656749601596644" fill="#57d2de" rx="2" ry="2">
-                <title>Java Prop…: 08m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.7403013990881" width="30" height="0.2156742580035962" fill="#6da4ef" rx="2" ry="2">
-                <title>INI: 01m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.529008594952" width="30" height="0.21129280413609247" fill="#7fa7ff" rx="2" ry="2">
-                <title>Markdown: 01m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.35620798649164" width="30" height="0.17280060846036274" fill="#2b8ceb" rx="2" ry="2">
-                <title>textmate: 01m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.23709984827812" width="30" height="0.11910813821352398" fill="#75cee6" rx="2" ry="2">
-                <title>GitIgnore…: 00m</title>
-                </rect>
-            
-
-                <rect x="160" y="69.19568949198167" width="30" height="0.04141035629645815" fill="#7e99ff" rx="2" ry="2">
-                <title>EditorCon…: 00m</title>
-                </rect>
-            
-<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Thu</text>
-
-                <rect x="205" y="104.95607395894129" width="30" height="1.5439260410587163" fill="#47aeff" rx="2" ry="2">
-                <title>Java: 09m</title>
-                </rect>
-            
-
-                <rect x="205" y="104.28590531228814" width="30" height="0.670168646653159" fill="#828bff" rx="2" ry="2">
-                <title>YAML: 03m</title>
-                </rect>
-            
-<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Fri</text>
-
-                <rect x="250" y="93.34916170991293" width="30" height="13.150838290087071" fill="#47aeff" rx="2" ry="2">
-                <title>Java: 01:18</title>
-                </rect>
-            
-
-                <rect x="250" y="93.27671605538832" width="30" height="0.07244565452460945" fill="#57d2de" rx="2" ry="2">
-                <title>Java Prop…: 00m</title>
-                </rect>
-            
-
-                <rect x="250" y="92.55312175779436" width="30" height="0.7235942975939639" fill="#6da4ef" rx="2" ry="2">
-                <title>INI: 04m</title>
-                </rect>
-            
-
-                <rect x="250" y="92.55091137049068" width="30" height="0.002210387303670142" fill="#7fa7ff" rx="2" ry="2">
-                <title>Markdown: 00m</title>
-                </rect>
-            
-
-                <rect x="250" y="92.47663168431512" width="30" height="0.07427968617555811" fill="#828bff" rx="2" ry="2">
-                <title>YAML: 00m</title>
-                </rect>
-            
-
-                <rect x="250" y="90.94629376749421" width="30" height="1.5303379168209068" fill="#668ff7" rx="2" ry="2">
-                <title>Gradle: 09m</title>
-                </rect>
-            
-
-                <rect x="250" y="90.67980026187612" width="30" height="0.26649350561809115" fill="#46c8ff" rx="2" ry="2">
-                <title>Groovy: 01m</title>
-                </rect>
-            
-
-                <rect x="250" y="90.659895541646" width="30" height="0.019904720230127435" fill="#64abff" rx="2" ry="2">
-                <title>Batchfile: 00m</title>
-                </rect>
-            
-
-                <rect x="250" y="90.64599004286522" width="30" height="0.013905498780776201" fill="#6b7aff" rx="2" ry="2">
-                <title>Properties: 00m</title>
-                </rect>
-            
-<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
-
-                <rect x="295" y="53.857887824669945" width="30" height="52.642112175330055" fill="#47aeff" rx="2" ry="2">
-                <title>Java: 05:12</title>
-                </rect>
-            
-
-                <rect x="295" y="53.73540091145475" width="30" height="0.1224869132151951" fill="#57d2de" rx="2" ry="2">
-                <title>Java Prop…: 00m</title>
-                </rect>
-            
-
-                <rect x="295" y="53.70058520495374" width="30" height="0.03481570650101026" fill="#6da4ef" rx="2" ry="2">
-                <title>INI: 00m</title>
-                </rect>
-            
-
-                <rect x="295" y="53.65980678911894" width="30" height="0.040778415834798964" fill="#7fa7ff" rx="2" ry="2">
-                <title>Markdown: 00m</title>
-                </rect>
-            
-
-                <rect x="295" y="53.33573648588301" width="30" height="0.32407030323592834" fill="#75cee6" rx="2" ry="2">
-                <title>GitIgnore…: 01m</title>
-                </rect>
-            
-
-                <rect x="295" y="51.97718526415954" width="30" height="1.358551221723473" fill="#7e99ff" rx="2" ry="2">
-                <title>EditorCon…: 08m</title>
-                </rect>
-            
-
-                <rect x="295" y="50.30468321245951" width="30" height="1.6725020517000322" fill="#828bff" rx="2" ry="2">
-                <title>YAML: 09m</title>
-                </rect>
-            
-
-                <rect x="295" y="49.86521777230034" width="30" height="0.43946544015917033" fill="#668ff7" rx="2" ry="2">
-                <title>Gradle: 02m</title>
-                </rect>
-            
-
-                <rect x="295" y="48.764748226494206" width="30" height="1.100469545806134" fill="#46c8ff" rx="2" ry="2">
-                <title>Groovy: 06m</title>
-                </rect>
-            
-
-                <rect x="295" y="46.766103106844" width="30" height="1.9986451196502026" fill="#6b7aff" rx="2" ry="2">
-                <title>Properties: 11m</title>
-                </rect>
-            
-
-                <rect x="295" y="46.5" width="30" height="0.26610310684399946" fill="#77d2f2" rx="2" ry="2">
-                <title>HTML: 01m</title>
-                </rect>
-            
-<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
-<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Mon</text>
-
-            <circle cx="60.75" cy="150.5" r="5" fill="#47aeff" />
-            <text x="72.75" y="154.5" font-size="10" fill="#c9d1d9">Java</text>
-            
-
-            <circle cx="190.25" cy="150.5" r="5" fill="#82bbe5" />
-            <text x="202.25" y="154.5" font-size="10" fill="#c9d1d9">SQL</text>
-            
-
-            <circle cx="319.75" cy="150.5" r="5" fill="#6382dc" />
-            <text x="331.75" y="154.5" font-size="10" fill="#c9d1d9">XML</text>
-            
-
-            <circle cx="60.75" cy="170.5" r="5" fill="#57d2de" />
-            <text x="72.75" y="174.5" font-size="10" fill="#c9d1d9">Java Prop…</text>
-            
-
-            <circle cx="190.25" cy="170.5" r="5" fill="#6da4ef" />
-            <text x="202.25" y="174.5" font-size="10" fill="#c9d1d9">INI</text>
-            
-
-            <circle cx="319.75" cy="170.5" r="5" fill="#7fa7ff" />
-            <text x="331.75" y="174.5" font-size="10" fill="#c9d1d9">Markdown</text>
-            
-
-            <circle cx="60.75" cy="190.5" r="5" fill="#2b8ceb" />
-            <text x="72.75" y="194.5" font-size="10" fill="#c9d1d9">textmate</text>
-            
-
-            <circle cx="190.25" cy="190.5" r="5" fill="#75cee6" />
-            <text x="202.25" y="194.5" font-size="10" fill="#c9d1d9">GitIgnore…</text>
-            
-
-            <circle cx="319.75" cy="190.5" r="5" fill="#7e99ff" />
-            <text x="331.75" y="194.5" font-size="10" fill="#c9d1d9">EditorCon…</text>
-            
-
-            <circle cx="60.75" cy="210.5" r="5" fill="#75a7ff" />
-            <text x="72.75" y="214.5" font-size="10" fill="#c9d1d9">Python</text>
-            
-
-            <circle cx="190.25" cy="210.5" r="5" fill="#828bff" />
-            <text x="202.25" y="214.5" font-size="10" fill="#c9d1d9">YAML</text>
-            
-
-            <circle cx="319.75" cy="210.5" r="5" fill="#668ff7" />
-            <text x="331.75" y="214.5" font-size="10" fill="#c9d1d9">Gradle</text>
-            
-
-            <circle cx="60.75" cy="230.5" r="5" fill="#46c8ff" />
-            <text x="72.75" y="234.5" font-size="10" fill="#c9d1d9">Groovy</text>
-            
-
-            <circle cx="190.25" cy="230.5" r="5" fill="#64abff" />
-            <text x="202.25" y="234.5" font-size="10" fill="#c9d1d9">Batchfile</text>
-            
-
-            <circle cx="319.75" cy="230.5" r="5" fill="#6b7aff" />
-            <text x="331.75" y="234.5" font-size="10" fill="#c9d1d9">Properties</text>
-            
-
-            <circle cx="60.75" cy="250.5" r="5" fill="#77d2f2" />
-            <text x="72.75" y="254.5" font-size="10" fill="#c9d1d9">HTML</text>
-            
-      <text x="212.5" y="282.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 24 mins</text>
+      <g transform="translate(0, 287.29999999999995)">
+<text font-family="Calibri" x="20" y="-265.2" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
+<text font-family="Calibri" x="20" y="-243.09999999999997" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 216</text>
+<text font-family="Calibri" x="20" y="-220.99999999999997" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total PRs:</tspan> 21</text>
+<text font-family="Calibri" x="20" y="-198.89999999999998" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Issues:</tspan> 0</text>
+<text font-family="Calibri" x="20" y="-176.79999999999998" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Reviews:</tspan> 1</text>
+<text font-family="Calibri" x="20" y="-154.7" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Followers:</tspan> 2</text>
+<text font-family="Calibri" x="20" y="-132.6" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Contributed To:</tspan> 1</text>
+<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 253 hrs 11 mins</text>
+<text font-family="Calibri" x="20" y="-88.39999999999999" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 1 hr 21 mins</text>
+<text font-family="Calibri" x="20" y="-66.3" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Top Languages:</tspan> HTML, C++, Java</text>
+<text font-family="Calibri" x="20" y="-44.199999999999996" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Top Projects:</tspan> gastoss, frontend-despesas-net, AtelieCloud</text>
+<text font-family="Calibri" x="20" y="-22.099999999999998" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Top OS:</tspan> Linux, Windows</text>
+<text font-family="Calibri" x="20" y="0" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Most Active Day:</tspan> September 21st, 2025</text>
+</g>
     </g>
 </svg>
