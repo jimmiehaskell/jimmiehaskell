@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jimmiehaskell&"  /> -->
-  <h1 align="center">Bem vindo!!👋</h1>
+  <h1 align="center">Bem vindo!!<!--👋--></h1>
   
   <h3 align="left">👩‍💻 Sobre mim</h3>
   <p align="justify">Olá, eu sou Jimmie Haskell, atualmente cursando <b>Engenharia de Software</b> 5/8, pela UDF em Brasília/DF. 📚</p>
