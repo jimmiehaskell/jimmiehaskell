@@ -58,6 +58,6 @@
     <img src="https://streak-stats.demolab.com?user=jimmiehaskell&theme=navy-gear&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=010409" alt="GitHub Streak" />
     <br>
     <!--https://github.com/LauraAllObe/wakatimeReadmeStats#component-types-->
-    <img src="wakatime/stats.svg?v=20260701"/>
+    <img src="wakatime/stats.svg?v=20260702"/>
   </div>
 </div>
