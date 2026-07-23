@@ -13,7 +13,7 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in HTML</text>
+        <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in HTML</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">HTML</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">41:07    |    18.1%</text>
@@ -45,5 +45,5 @@
 <rect x="75" y="262.5" width="44.86370399646736" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="125.86370399646736" y="271.5" font-size="9" fill="#c9d1d9">05:25    |    2.4%</text>
       <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 263 hrs 46 mins</text>
-    </g>
+      </g>
 </svg>
