@@ -39,11 +39,11 @@
 <rect x="75" y="214.5" width="60.457171834057" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="141.457171834057" y="223.5" font-size="9" fill="#c9d1d9">07:18    |    3.2%</text>
 <text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="238.5" width="51.72733020170522" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="132.72733020170523" y="247.5" font-size="9" fill="#c9d1d9">06:15    |    2.8%</text>
+<rect x="75" y="238.5" width="51.73503625632378" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="132.73503625632378" y="247.5" font-size="9" fill="#c9d1d9">06:15    |    2.8%</text>
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">TOML</text>
 <rect x="75" y="262.5" width="44.85138023668077" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="125.85138023668077" y="271.5" font-size="9" fill="#c9d1d9">05:25    |    2.4%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 267 hrs 22 mins</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 267 hrs 36 mins</text>
       </g>
 </svg>
