@@ -1,10 +1,10 @@
 
-<svg width="498" height="346.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="350" height="102" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
-    width="496"
-    height="344.5"
+    width="348"
+    height="100"
     fill="#0d1117"
     stroke="#c9d1d9"
     stroke-width="2"
@@ -13,37 +13,10 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-        <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in HTML</text>
-      <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">HTML</text>
-<rect x="75" y="46.5" width="340" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">42:25    |    16.8%</text>
-<text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">Java</text>
-<rect x="75" y="70.5" width="320.15679742445127" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="401.15679742445127" y="79.5" font-size="9" fill="#c9d1d9">39:57    |    15.8%</text>
-<text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">C++</text>
-<rect x="75" y="94.5" width="307.3976722858061" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="388.3976722858061" y="103.5" font-size="9" fill="#c9d1d9">38:21    |    15.2%</text>
-<text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
-<rect x="75" y="118.5" width="250.93623408575112" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="331.93623408575115" y="127.5" font-size="9" fill="#c9d1d9">31:19    |    12.4%</text>
-<text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">PHP</text>
-<rect x="75" y="142.5" width="209.8670165738156" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="290.8670165738156" y="151.5" font-size="9" fill="#c9d1d9">26:11    |    10.4%</text>
-<text font-family="Calibri" x="67" y="175.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="166.5" width="205.7703264762454" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="286.7703264762454" y="175.5" font-size="9" fill="#c9d1d9">25:40    |    10.2%</text>
-<text font-family="Calibri" x="67" y="199.5" font-size="10" text-anchor="end" fill="#c9d1d9">Rust</text>
-<rect x="75" y="190.5" width="135.50091681206035" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="216.50091681206035" y="199.5" font-size="9" fill="#c9d1d9">16:54    |    6.7%</text>
-<text font-family="Calibri" x="67" y="223.5" font-size="10" text-anchor="end" fill="#c9d1d9">SCSS</text>
-<rect x="75" y="214.5" width="126.93650034051372" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="207.9365003405137" y="223.5" font-size="9" fill="#c9d1d9">15:50    |    6.3%</text>
-<text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#c9d1d9">SQL</text>
-<rect x="75" y="238.5" width="67.99104438175316" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="148.99104438175317" y="247.5" font-size="9" fill="#c9d1d9">08:29    |    3.4%</text>
-<text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="262.5" width="55.97815399050275" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="136.97815399050273" y="271.5" font-size="9" fill="#c9d1d9">06:59    |    2.8%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 297 hrs 9 mins</text>
+        <rect width="100%" height="100%" fill="#ffffff9f" />
+      <text x="160" y="24" fill="#333333" font-size="12" font-weight="bold" text-anchor="middle">Card Error</text>
+      <text x="160" y="48" fill="#333333" font-size="11" text-anchor="middle" xml:space="preserve">
+        <tspan x="160" dy="0">all_langs unavailable: No all-time language</tspan><tspan x="160" dy="13">data available.</tspan>
+      </text>
       </g>
 </svg>
