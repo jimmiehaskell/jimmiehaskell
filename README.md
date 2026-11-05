@@ -42,8 +42,5 @@
   <div align="center">
     <img src="https://wakatime.com/badge/user/09d2b4bf-e02a-46aa-b0bd-ba8bb36fd587.svg" alt="wakatime" /><br>
     <img src="https://streak-stats.demolab.com?user=jimmiehaskell&theme=navy-gear&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=010409" alt="GitHub Streak" />
-    <br>
-    <!--https://github.com/LauraAllObe/wakatimeReadmeStats#component-types-->
-    <img src="https://wakatime.com/share/@jimmiehaskell/646485e2-9a26-4515-bfff-cce62dc1165e.svg"></img>
   </div>
 </div>
